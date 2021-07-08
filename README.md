@@ -1,1 +1,2 @@
 # PCB-Embedded_System
+A 2-layer printed circuit board design including digital and analog I/O peripheral including Digital-to-Analog Converters (DAC), and Input/Output (I/O) expanders interfacing via I2C bus, user I/O including pushbuttons and a Liquid Crystal Display (LCD) module, and PWM motor control with quadrature encoder interface. Includes symbols and footprints creation for the components, schematics capture, PCB layout using Altium Designer for the prototype to develop a stand-alone system.
